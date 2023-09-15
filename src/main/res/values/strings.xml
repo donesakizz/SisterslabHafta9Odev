@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CocukEglenceFirebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_name">Kategori Adı</string>
+    <string name="list">İçerik Adı</string>
+    <string name="detail">Detay</string>
+</resources>
